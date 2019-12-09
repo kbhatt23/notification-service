@@ -12,8 +12,8 @@ import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
-import com.metallica.notificationservice.subscriber.bean.Side;
-import com.metallica.notificationservice.subscriber.bean.TradeStatus;
+import com.metallica.tradeservice.bean.Side;
+import com.metallica.tradeservice.bean.TradeStatus;
 
 
 @Entity

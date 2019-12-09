@@ -1,4 +1,4 @@
-package com.metallica.notificationservice.subscriber.bean;
+package com.metallica.tradeservice.bean;
 
 import java.io.Serializable;
 import java.util.Date;

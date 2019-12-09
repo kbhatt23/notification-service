@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.metallica.notificationservice.repository.TradeNotificationRepository;
 import com.metallica.notificationservice.repository.dao.TradeDAO;
-import com.metallica.notificationservice.subscriber.bean.Trade;
+import com.metallica.tradeservice.bean.Trade;
 
 @Service
 public class NotificationDBService {
